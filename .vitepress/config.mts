@@ -61,7 +61,7 @@ export default defineConfigWithTheme<DefaultTheme.Config>({
   cleanUrls: true,
   srcDir: 'docs',
   sitemap: {
-    hostname: 'https://wiki.cytoid.io',
+    hostname: 'https://cytoid.wiki',
   },
 
   vite: {
