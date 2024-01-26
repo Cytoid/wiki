@@ -32,8 +32,28 @@ function initPlugins() {
     background: 'oklch(var(--b1) / 0.75)',
   })
 }
+
+function initMountedPlugins() {
+  // remove service worker
+  try {
+    if (window.navigator && navigator.serviceWorker) {
+      navigator.serviceWorker.getRegistrations()
+        .then((registrations) => {
+          for (const registration of registrations) {
+            registration.unregister()
+          }
+        })
+    }
+  }
+  catch (error) {
+    console.error('Failed to remove service worker.')
+    console.error(error)
+  }
+}
+
 onMounted(() => {
   initPlugins()
+  initMountedPlugins()
 })
 watch(
   () => route.path,
