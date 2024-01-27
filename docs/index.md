@@ -24,5 +24,6 @@ onMounted(() => {
   const router = useRouter()
   const prefer = useLocaleStorage()
   router.go(`/${prefer.value}/`)
+  window.history.replaceState(null, '', `/${prefer.value}/`)
 })
 </script>
