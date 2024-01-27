@@ -11,17 +11,17 @@ You will need to pack your files into a `.cytoidlevel` file.
 
 After finishing your chart, click the top-left button and look down, then click *Export to Cytoid*. You will see the following window:
 
-![Cytoid Level Compiler](./_sources_packing.md/1.png)
+![Cytoid Level Compiler](./_sources_packing.md/1.webp)
 
 Just type what it tells you to do and click on *Charts* after doing so.
 
 In the *Charts* tab, you will see the following:
 
-![Charts](./_sources_packing.md/2.png)
+![Charts](./_sources_packing.md/2.webp)
 
 Click on *Add chart info* first then this will show up:
 
-![Chart info](./_sources_packing.md/3.png)
+![Chart info](./_sources_packing.md/3.webp)
 
 You **must** add the chart file and change the difficulty from the slider (that goes from ? to 15+).
 
@@ -32,8 +32,8 @@ And for *Convert unsupported features in Cytoid as a storyboard (for simulation)
 
 If you have done it correctly, you should have the compiler looks something like this:
 
-![Filled in metadata](./_sources_packing.md/4.png)
-![Filled in charts data](./_sources_packing.md/5.png)
+![Filled in metadata](./_sources_packing.md/4.webp)
+![Filled in charts data](./_sources_packing.md/5.webp)
 
 ## Packing it manually
 
@@ -43,7 +43,7 @@ To do so, first make sure you have the following files:
 - A chart file (at least)
 - Music file (`.ogg` recommended)
 - Music preview file (has to be less than 30 seconds)
-- Background image (`.jpg` or `.png` only)
+- Background image (`.webp` or `.webp` only)
 
 You can also include the storyboard file(s) if you have it (them).
 

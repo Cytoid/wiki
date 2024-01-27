@@ -35,45 +35,45 @@ Cons:
 
 ### Importing to Excel
 
-![](./_sources_other.md/1.png)
+![](./_sources_other.md/1.webp)
 
 Firstly, open your chart using Notepad++. You will see something that's hard to make sense similar to the image above.
 
-![](./_sources_other.md/2.png)
+![](./_sources_other.md/2.webp)
 
 Press CTRL+H. A Find and Replace Window will pop up. Set it up like the image next to this text.
 
-![](./_sources_other.md/3.png)
+![](./_sources_other.md/3.webp)
 
 Type [ in Find What box, and Type [\n in Replace With Box. Like image next to this.
 
 Then click Replace All, or CTRL+A keyboard shortcut.
 
-![](./_sources_other.md/4.png)
+![](./_sources_other.md/4.webp)
 
 If you see your chart turns like this, you've done correctly.
 
 Repeat the same procedures for each items below. Make sure to do them sequentially. If you follow this guide for first time, the first item is done just previously, which is Find [ and replace with [\n.
 
-![](./_sources_other.md/5.png)
+![](./_sources_other.md/5.webp)
 
-![](./_sources_other.md/6.png)
+![](./_sources_other.md/6.webp)
 
 When it's done correctly you have something that looks like this.
 
 Press CTRL+A to Select All, and press CTRL+C to Copy it. Then open Excel
 
-![](./_sources_other.md/7.png)
+![](./_sources_other.md/7.webp)
 
 In Excel, select cell B1, and press CTRL+V. Why Cell B1? Because A1 will be used for writing Page Index which is used for Dynamic Page Index later.
 
-![](./_sources_other.md/8.png)
+![](./_sources_other.md/8.webp)
 
 If you see image like above (no triple quotes, numbers are in their own cells, symbols are also in their own cells), then you've done it right.
 
 BUT WAIT, there's something you have to check first.
 
-![](./_sources_other.md/9.png)
+![](./_sources_other.md/9.webp)
 
 In Excel, Press CTRL+H and search """
 
@@ -89,7 +89,7 @@ After you've done all this, you've successfully import the chart to Excel.
 
 To create Dynamic Page Index, first we have to generate the page index numbers itself. Go to Cell A1, and put something easy to identify, like "Page Index" without quotes.
 
-![](./_sources_other.md/10.png)
+![](./_sources_other.md/10.webp)
 
 To generate Page Index do it like the video below.
 
@@ -101,7 +101,7 @@ You have to redo this every time you add or delete a page.
 
 Then we go to our first Note page index cell, which is two columns to the right where "page_index" resides.
 
-![](./_sources_other.md/11.png)
+![](./_sources_other.md/11.webp)
 
 Then we have to change the value of the cell to this Formula:
 
@@ -156,7 +156,7 @@ Approach Rate strings have to be placed inside note object which is located in n
 
 There is only one actual reason why you need to use Approach Rate, and that is you have done something that is not normal and thus the notes appears too late for players to react. Approach Rate string primary use is to fix this.
 
-![](./_sources_other.md/12.png)
+![](./_sources_other.md/12.webp)
 
 There are two approaches to well... approach rate. While the principle and how it works is essentially the same, how you fill the formula differs depending on the approach.
 
@@ -165,7 +165,7 @@ There are two approaches to well... approach rate. While the principle and how i
 
 Before we go on, here is the basic "approach_rate" string formula.
 
-![](./_sources_other.md/13.png)
+![](./_sources_other.md/13.webp)
 
 - "approach_rate" = approach rate that will be input to our chart
 - AR = Engine default approach rate
@@ -180,7 +180,7 @@ AR is the default approach rate used by the engine. We short it to AR as to diff
 
 To calculate AR we use this formula:
 
-![](./_sources_other.md/14.png)
+![](./_sources_other.md/14.webp)
 
 Page Size = The time it takes for scanline to reach from bottom to top or top to bottom for the page where the note is located on. There's two approach to this, see below.
 
@@ -196,11 +196,11 @@ The Page Size depends whether you use PCTyx to modify scanline speed (1st Approa
 
 If you use 1st approach, the Page Size formula is simply:
 
-![](./_sources_other.md/15.png)
+![](./_sources_other.md/15.webp)
 
 But if you use the 2nd approach:
 
-![](./_sources_other.md/16.png)
+![](./_sources_other.md/16.webp)
 
 Note that 2nd approach cannot be used for previous page size if said previous page is used for scanline freeze (in which case where starting page tick is a very huge negative number).
 
@@ -220,7 +220,7 @@ First we generate "approach_rate" string to all notes. See video below.
 
 Because of how heavily nested the AR formula can be, I heavily suggest to split the formula into multiple cells. Create some header like image below next to the end of copy paste area and in the same row at the start of note array.
 
-![](./_sources_other.md/17.png)
+![](./_sources_other.md/17.webp)
 
 The created headers are:
 

@@ -6,7 +6,7 @@ Modifiers help players adjust gameplay experience based on their preference. Her
 
 ### HYPER
 
-![Hyper](./_source_mods.md/Hyper.png){.side-img .icon-img}
+![Hyper](./_source_mods.md/Hyper.webp){.side-img .icon-img}
 
 > Add an HP bar to the game.
 
@@ -39,7 +39,7 @@ Modifiers help players adjust gameplay experience based on their preference. Her
 
 ### ANOTHER
 
-![Another](./_source_mods.md/Another.png){.side-img .icon-img}
+![Another](./_source_mods.md/Another.webp){.side-img .icon-img}
 
 > Same as HYPER, but more difficult.
 
@@ -72,13 +72,13 @@ Modifiers help players adjust gameplay experience based on their preference. Her
 
 ### Full combo
 
-![Full combo](./_source_mods.md/FullCombo.png){.side-img .icon-img}
+![Full combo](./_source_mods.md/FullCombo.webp){.side-img .icon-img}
 
 > Game over if missed a note.
 
 ### All perfect
 
-![All perfect](./_source_mods.md/AllPerfect.png){.side-img .icon-img}
+![All perfect](./_source_mods.md/AllPerfect.webp){.side-img .icon-img}
 
 > Game over if the note cleared is not perfect.
 
@@ -86,19 +86,19 @@ Modifiers help players adjust gameplay experience based on their preference. Her
 
 ### Flip X
 
-![Flip X](./_source_mods.md/FlipX.png){.side-img .icon-img}
+![Flip X](./_source_mods.md/FlipX.webp){.side-img .icon-img}
 
 > Flips the level on the x-axis.
 
 ### Flip Y
 
-![Flip Y](./_source_mods.md/FlipY.png){.side-img .icon-img}
+![Flip Y](./_source_mods.md/FlipY.webp){.side-img .icon-img}
 
 > Flips the level on the y-axis.
 
 ### Flip All
 
-![Flip All](./_source_mods.md/FlipAll.png){.side-img .icon-img}
+![Flip All](./_source_mods.md/FlipAll.webp){.side-img .icon-img}
 
 > Flip the level on both axes, i.e. rotate by 180°.
 
@@ -106,7 +106,7 @@ Modifiers help players adjust gameplay experience based on their preference. Her
 
 ### Fast
 
-![Fast](./_source_mods.md/Fast.png){.side-img .icon-img}
+![Fast](./_source_mods.md/Fast.webp){.side-img .icon-img}
 
 > Notes fade in later.
 
@@ -114,7 +114,7 @@ When Fast is enabled, notes will fade in later, i.e approach rate is higher.
 
 ### Slow
 
-![Slow](./_source_mods.md/Slow.png){.side-img .icon-img}
+![Slow](./_source_mods.md/Slow.webp){.side-img .icon-img}
 
 > Notes fade in earlier.
 
@@ -124,13 +124,13 @@ When Slow is enabled, notes will fade in earlier, i.e approach rate is lower.
 
 ### No scanner
 
-![No scanner](./_source_mods.md/NoScanner.png){.side-img .icon-img}
+![No scanner](./_source_mods.md/NoScanner.webp){.side-img .icon-img}
 
 > The scanner is hidden.
 
 ### Invisible
 
-![Invisible](./_source_mods.md/Invisible.png){.side-img .icon-img}
+![Invisible](./_source_mods.md/Invisible.webp){.side-img .icon-img}
 
 > All notes are hidden.
 
@@ -142,7 +142,7 @@ If you enabled any auto-playing modifiers, your score won't be saved (that means
 
 ### Auto
 
-![Auto](./_source_mods.md/Auto.png){.side-img .icon-img}
+![Auto](./_source_mods.md/Auto.webp){.side-img .icon-img}
 
 > Autoplay the level
 
@@ -150,7 +150,7 @@ If you enabled any auto-playing modifiers, your score won't be saved (that means
 
 ### Auto Drag
 
-![Auto Drag](./_source_mods.md/AutoDrag.png){.side-img .icon-img}
+![Auto Drag](./_source_mods.md/AutoDrag.webp){.side-img .icon-img}
 
 > Autoplay the drag notes
 
@@ -158,7 +158,7 @@ If you enabled any auto-playing modifiers, your score won't be saved (that means
 
 ### Auto Flick
 
-![Auto Flick](./_source_mods.md/AutoFlick.png){.side-img .icon-img}
+![Auto Flick](./_source_mods.md/AutoFlick.webp){.side-img .icon-img}
 
 > Autoplay the flick notes
 
@@ -166,7 +166,7 @@ If you enabled any auto-playing modifiers, your score won't be saved (that means
 
 ### Auto Hold
 
-![Auto Hold](./_source_mods.md/AutoHold.png){.side-img .icon-img}
+![Auto Hold](./_source_mods.md/AutoHold.webp){.side-img .icon-img}
 
 > Autoplay the hold notes
 

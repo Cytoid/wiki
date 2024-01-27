@@ -27,11 +27,11 @@ Please choose the correct architecture (if you don't know, see in Settings or Co
 
 5. If this is your first time running Cylheim, this screen will show up, click *I accept*.
 
-![Terms of use agreement screen](./_sources_cylheim.md/welcome.jpg)
+![Terms of use agreement screen](./_sources_cylheim.md/welcome.webp)
 
 If an error message like this image below showed up, please install .NET 6 Desktop Runtime [here](https://dotnet.microsoft.com/download/dotnet/6.0).
 
-![.NET not installed error](./_sources_cylheim.md/dotnet_error.png)
+![.NET not installed error](./_sources_cylheim.md/dotnet_error.webp)
 
 ## Getting ready
 
@@ -39,7 +39,7 @@ Before we start, you should prepare an edited audio file (we have mentioned how 
 
 For easier chart management, we recommend that you should put in a separate folder for each track, like this:
 
-![Chart management](./_sources_cylheim.md/folder1.jpg)
+![Chart management](./_sources_cylheim.md/folder1.webp)
 
 When you're ready, you can move to the next section.
 
@@ -47,17 +47,17 @@ When you're ready, you can move to the next section.
 
 When you open Cylheim (or after accepting Cylheim's terms of use in the first run), you can see the welcome screen.
 
-![Welcome screen](./_sources_cylheim.md/welcome2.jpg)
+![Welcome screen](./_sources_cylheim.md/welcome2.webp)
 
 Next, click *New Project* and create the project file in the folder.
 
-![Creating a new project](./_sources_cylheim.md/new_project.jpg)
+![Creating a new project](./_sources_cylheim.md/new_project.webp)
 
 ### A look at the UI
 
 Now, we will take a look at Cylheim's UI:
 
-![Basic UI](./_sources_cylheim.md/editor_ui.png)
+![Basic UI](./_sources_cylheim.md/editor_ui.webp)
 
 1. Toolbar & Title bar: You can hover over the icons to know their function.
 
@@ -73,7 +73,7 @@ Now, we will take a look at Cylheim's UI:
 
 When you click the *+* button in the chart list, a window appears.
 
-![New Chart](./_sources_cylheim.md/new_chart.jpg){.side-img}
+![New Chart](./_sources_cylheim.md/new_chart.webp){.side-img}
 
 It is divided into four parts by lines. From up to down, their functions are **import chart file**, **basic information of the chart**, **editor appearance**, and **presets for the appearance**.
 
@@ -159,7 +159,7 @@ Cylheim uses C2's format, so for speed changes, you can consider one of these op
 
 Cylheim has two buttons to perform.
 
-![Half page buttons](./_sources_cylheim.md/halfpagebutton.png)
+![Half page buttons](./_sources_cylheim.md/halfpagebutton.webp)
 
 You can also change the size to exactly what you want by opening
 **Sidebar --> Page manager**.

@@ -4,19 +4,19 @@
 
 ### Leaderboard
 
-![Leaderboard](./_source_game_screen.md/leaderboard.png){.side-img .icon-img}
+![Leaderboard](./_source_game_screen.md/leaderboard.webp){.side-img .icon-img}
 
 After touching on the *Leaderboard* icon, a leaderboard of the current level shows, which allows players to see the top-ranking and their current ranking (requires CytoidID).
 
 ### Level rating
 
-![Rating](./_source_game_screen.md/rating.png){.side-img .icon-img}
+![Rating](./_source_game_screen.md/rating.webp){.side-img .icon-img}
 
 This allows players to see rate count and rate a level. Ranging from 0.5 ~ 5.0.
 
 ### Game options
 
-![Game options](./_source_game_screen.md/game_option.png){.side-img .icon-img}
+![Game options](./_source_game_screen.md/game_option.webp){.side-img .icon-img}
 
 This allows players to enable/disable Practice mode and modifiers.
 
@@ -41,7 +41,7 @@ Modifiers help players adjust gameplay experience based on their preference. For
 
 ### Level and game settings
 
-![Game settings](./_source_game_screen.md/game_settings.png){.side-img .icon-img}
+![Game settings](./_source_game_screen.md/game_settings.webp){.side-img .icon-img}
 
 This allows players to see and adjust level and game settings.
 
@@ -53,7 +53,7 @@ Game settings
 
 ### Level information
 
-![Level information](./_source_game_screen.md/level_info.png){.side-img .icon-img}
+![Level information](./_source_game_screen.md/level_info.webp){.side-img .icon-img}
 
 It will display the level information: artist, cover artist, charter, storyboarder, ID, version.
 

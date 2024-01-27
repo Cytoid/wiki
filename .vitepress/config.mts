@@ -20,7 +20,7 @@ export default defineConfigWithTheme<DefaultTheme.Config>({
       },
     },
 
-    logo: { src: '/pic/cytoid-girl.png', alt: 'Cytoid' },
+    logo: { src: '/pic/cytoid-girl.webp', alt: 'Cytoid' },
 
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/cytoid' },
@@ -37,7 +37,7 @@ export default defineConfigWithTheme<DefaultTheme.Config>({
   locales,
 
   head: [
-    ['link', { rel: 'icon', href: '/pic/cytoid-girl.png' }],
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
   ],
 
   appearance: {

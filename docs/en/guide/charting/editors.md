@@ -4,7 +4,7 @@ Chart editor is a tool that helps you chart and finish quickly. A chart editor o
 
 ## PCtyx
 
-![A screenshot of PCtyx](./_source_abc.md/PCtyx.png){.side-img}
+![A screenshot of PCtyx](./_source_abc.md/PCtyx.webp){.side-img}
 
 - Platform: Windows, macOS, Linux
 
@@ -26,7 +26,7 @@ Chart editor is a tool that helps you chart and finish quickly. A chart editor o
 
 ## Cylheim
 
-![A screenshot of Cylheim](./_source_abc.md/Cylheim.png){.side-img}
+![A screenshot of Cylheim](./_source_abc.md/Cylheim.webp){.side-img}
 
 - Platform: Windows
 
@@ -49,7 +49,7 @@ Chart editor is a tool that helps you chart and finish quickly. A chart editor o
 
 ## Cytoid Chart Editor
 
-![A screenshot of Cytoid Chart Editor, provided by hana26](./_source_abc.md/Cytoid_Chart_Editor.jpg){.side-img}
+![A screenshot of Cytoid Chart Editor, provided by hana26](./_source_abc.md/Cytoid_Chart_Editor.webp){.side-img}
 
 - Platform: Android/iOS/PC
 
@@ -61,7 +61,7 @@ Chart editor is a tool that helps you chart and finish quickly. A chart editor o
 
 ## Cy2Unity
 
-![A screenshot of Cy2Unity](./_source_abc.md/Cy2Unity.png){.side-img}
+![A screenshot of Cy2Unity](./_source_abc.md/Cy2Unity.webp){.side-img}
 
 - Platform: Windows
 

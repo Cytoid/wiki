@@ -13,7 +13,7 @@ You will need to check these to proceed:
 
 After checking, you can log in to [CytoidIO](https://cytoid.io/session/login) and go to [Studio](https://cytoid.io/studio/levels). You will see something like this:
 
-![Studio](./_sources_upload.md/1.png)
+![Studio](./_sources_upload.md/1.webp)
 
 Here, you can click the *Click or drag a Cytoid level to this area* button and select the Cytoid level you want to upload or click and drag the `.cytoidlevel` file to that area.
 
@@ -23,13 +23,13 @@ If you have errors while uploading, here’s a quick FAQ with the errors:
 
 ### *Wrong ID format* error
 
-![ID error](./_sources_upload.md/2.png){.side-img}
+![ID error](./_sources_upload.md/2.webp){.side-img}
 
 It means your ID is in the wrong format. Remember that ID **cannot** have capitals or spaces, and you **need** to add a `.`, `_` or `-` in between after the first word.
 
 ### File not found error
 
-![File not found](./_sources_upload.md/3.png){.side-img}
+![File not found](./_sources_upload.md/3.webp){.side-img}
 
 It could mean:
 
@@ -49,13 +49,13 @@ CytoidIO cannot detect if you also have the necessary resources for your **story
 
 ### *Unauthorized* error
 
-![Unauthorized](./_sources_upload.md/4.png){.side-img}
+![Unauthorized](./_sources_upload.md/4.webp){.side-img}
 
 It means your login time has expired. You can refresh the page, log in, and try again.
 
 ### *Missing required field(s)* error
 
-![Missing required field(s)](./_sources_upload.md/5.png){.side-img}
+![Missing required field(s)](./_sources_upload.md/5.webp){.side-img}
 
 It means you forgot to add the required field(s) in the `level.json`. You may have to check and fill in the necessary field(s) in the `level.json` file mentioned [here](./level-json#parameters), then zip again.
 
@@ -63,7 +63,7 @@ It means you forgot to add the required field(s) in the `level.json`. You may ha
 
 If your chart(s) has uploaded successfully, the website will redirect to this page:
 
-![Edit listing](./_sources_upload.md/6.png)
+![Edit listing](./_sources_upload.md/6.webp)
 
 In here you have:
 

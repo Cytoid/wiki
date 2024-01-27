@@ -18,7 +18,7 @@ Charts at the very least must be playable. By playable, it means the chart has n
 
 ### Qualities
 
-![](./_sources_charting_and_you.md/1.png)
+![](./_sources_charting_and_you.md/1.webp)
 
 Ugly charts like stated earlier are charts that have anti-fun factor. Bad charts are charts mainly filled with badly-placed notes. Decent charts are charts that are not in Bad category. Good charts are decided by the players (and thus the community), now typically through the rating system on cytoid.io. Troll charts play by different rules since they are more for appreciation rather than for playing.
 > Your requirement as a charter is to make sure your chart is not an ugly chart.
@@ -57,19 +57,19 @@ You can fix such problems by simply moving the problematic note away
 
 To prevent this from happening, PCTyx has this feature:
 
-![](./_sources_charting_and_you.md/5.png)
+![](./_sources_charting_and_you.md/5.webp)
 
 These transparent notes are from previous pages. Do not put notes in places that are completely covered by them.
 
 Same goes to Cylheim:
 
-![](./_sources_charting_and_you.md/6.png)
+![](./_sources_charting_and_you.md/6.webp)
 
 Same do Cytunity somewhat, less prominent in autoplay mode, but completely missing when in editing mode.
 
-![Autoplay Mode](./_sources_charting_and_you.md/7.png)
+![Autoplay Mode](./_sources_charting_and_you.md/7.webp)
 
-![Edit Mode](./_sources_charting_and_you.md/8.png)
+![Edit Mode](./_sources_charting_and_you.md/8.webp)
 
 There are no information whatsoever from previous page (in Edit Mode), making you as a charter prone to mistakes. Keep this in mind when charting (This is also probably the main reason why new charters often have overlapping notes in their chart).
 
@@ -77,7 +77,7 @@ There are no information whatsoever from previous page (in Edit Mode), making yo
 
 There is no definite rule set, but you can somewhat overlap some parts of your notes, especially if your song has high bpm and have to keep the notes close between pages.
 
-![](./_sources_charting_and_you.md/9.png)
+![](./_sources_charting_and_you.md/9.webp)
 
 We think for tablets, the maximum overlap is about ¼ of a note, while for phones is about ⅙.
 
@@ -89,7 +89,7 @@ Phones and tablets have different screen size. Tablets are bigger and thus less 
 
 On top of overlapping notes, you also have to worry about the player’s hand blocking their view on notes. This is very prominent when you chart to the edge of screen. Here’s a preview image of where to not chart when having situation like this.
 
-![](./_sources_charting_and_you.md/10.jpg)
+![](./_sources_charting_and_you.md/10.webp)
 
 The arrow on the right gives the direction of current page, which is going up from bottom. The **red areas** are covered by your hand the moment the **last two notes on top are reached by the scanner.**
 
@@ -97,13 +97,13 @@ On the picture, it shows page 117, then on page 118 **do not chart on those red 
 
 Then on Page 118, it goes like this:
 
-![](./_sources_charting_and_you.md/11.png)
+![](./_sources_charting_and_you.md/11.webp)
 
 Why does the red area on the left only half-sized? **Because the most relevant part are only first half of a page**, and the notes are moved from top right to bottom left.
 
 If we go to the next page, an example of would be like this:
 
-![](./_sources_charting_and_you.md/12.png)
+![](./_sources_charting_and_you.md/12.webp)
 
 If we combine all three pages, it becomes like this:
 

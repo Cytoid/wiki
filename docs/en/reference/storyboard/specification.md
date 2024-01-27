@@ -24,15 +24,15 @@ This specification details the storyboard schema; you can use this as a referenc
 
     - The X and Y axes are called noteX and noteY.
 
-    ![./_source_specification.md/pic1.png](./_source_specification.md/pic1.jpg)
+    ![./_source_specification.md/pic1.webp](./_source_specification.md/pic1.webp)
 
   - The game **camera** has its own frame of reference based on its [orthographic size](https://docs.unity3d.com/ScriptReference/Camera-orthographicSize.html). By default, camera is positioned at (0, 0).
 
     - The X and Y axes are called cameraX and cameraY.
 
-      ![./_source_specification.md/pic1.png](./_source_specification.md/pic2.jpg)
+      ![./_source_specification.md/pic1.webp](./_source_specification.md/pic2.webp)
 
-      ![./_source_specification.md/pic1.png](./_source_specification.md/pic3.jpg)
+      ![./_source_specification.md/pic1.webp](./_source_specification.md/pic3.webp)
 
   - Finally, there is also an Z axis for parameters that are, well, on the game's **Z axis**, or, the depth axis. You do not care about this axis unless you have set **perspective** to true in a scene controller.
 
@@ -209,13 +209,13 @@ This specification details the storyboard schema; you can use this as a referenc
 
   ```json
   {
-      "time": 5,
-      "states": [
-          {
-              // State A
-              "relative_time": 2.5
-          }
-      ]
+    "time": 5,
+    "states": [
+      {
+        // State A
+        "relative_time": 2.5
+      }
+    ]
   }
   ```
 
@@ -225,16 +225,16 @@ This specification details the storyboard schema; you can use this as a referenc
 
   ```json
   {
-      "time": 5,
-      "states": [
-          {
-              "relative_time": 2.5
-          },
-          {
-              // State B
-              "add_time": 3
-          }
-      ]
+    "time": 5,
+    "states": [
+      {
+        "relative_time": 2.5
+      },
+      {
+        // State B
+        "add_time": 3
+      }
+    ]
   }
   ```
 
@@ -255,7 +255,7 @@ This specification details the storyboard schema; you can use this as a referenc
   - In the following example along with the uses of triggers, the `Hello world!` text is spawned and displayed when note 4 is cleared, transitions into zero opacity before destroyed.
 
     ```json
-    ...    
+    ...
         "texts": [
             {
                 "id": "hello_world",
@@ -483,9 +483,9 @@ As of 2.0.2, this property only works on clicks and flicks.
 
     ```json
     {
-        "type": [0],
-        "start": 250,
-        "end": 275
+      "type": [0],
+      "start": 250,
+      "end": 275
     }
     ```
 
@@ -502,7 +502,7 @@ As of 2.0.2, this property only works on clicks and flicks.
 
     ```json
     {
-        "direction": -1
+      "direction": -1
     }
     ```
 
@@ -518,7 +518,7 @@ As of 2.0.2, this property only works on clicks and flicks.
   {
     "note": {
       "start": 7,
-          "end": 9
+      "end": 9
     },
     "override_x": true,
     "x": 0.25
@@ -570,15 +570,15 @@ As of 2.0.2, this property only works on clicks and flicks.
 
     ```json
     {
-        "note": 100,
+      "note": 100,
       "opacity": 1,
-        "time": "intro:100",
-        "states": [
-            {
-                "opacity": 0,
-                "time": "intro:100:0.2"
-            }
-        ]
+      "time": "intro:100",
+      "states": [
+        {
+          "opacity": 0,
+          "time": "intro:100:0.2"
+        }
+      ]
     }
     ```
 
@@ -588,15 +588,15 @@ As of 2.0.2, this property only works on clicks and flicks.
 
     ```json
     {
-        "note": {},
+      "note": {},
       "opacity": 1,
-        "time": "intro:???", // What note ID should we use?
-        "states": [
-            {
-                "opacity": 0,
-                "time": "intro:???:0.2" // What note ID should we use?
-            }
-        ]
+      "time": "intro:???", // What note ID should we use?
+      "states": [
+        {
+          "opacity": 0,
+          "time": "intro:???:0.2" // What note ID should we use?
+        }
+      ]
     }
     ```
 
@@ -632,15 +632,15 @@ As of 2.0.2, this property only works on clicks and flicks.
 
     ```json
     {
-        "note": {},
+      "note": {},
       "opacity": 1,
-        "time": "intro:$note",
-        "states": [
-            {
-                "opacity": 0,
-                "time": "intro:$note:0.2"
-            }
-        ]
+      "time": "intro:$note",
+      "states": [
+        {
+          "opacity": 0,
+          "time": "intro:$note:0.2"
+        }
+      ]
     }
     ```
 
@@ -722,7 +722,7 @@ As of 2.0.2, this property only works on clicks and flicks.
                 "path": "image.jpg"
                 "note": {}, // Spawn an image for each note...
                 "parent_id": "note_controller_$note", // ...that locates and moves relative to the note (i.e. follows the note)
-                "opacity": 0,            
+                "opacity": 0,
                 "time": "intro:$note", // ...that is hidden until the note appears
                 "states": [
                     {
@@ -754,8 +754,8 @@ As of 2.0.2, this property only works on clicks and flicks.
 
         ```json
         {
-            "min_x": 0.4,
-            "max_x": 0.4
+          "min_x": 0.4,
+          "max_x": 0.4
         }
         ```
 
@@ -763,8 +763,8 @@ As of 2.0.2, this property only works on clicks and flicks.
 
         ```json
         {
-            "min_x": 0.39999,
-            "max_x": 0.40001
+          "min_x": 0.39999,
+          "max_x": 0.40001
         }
         ```
 

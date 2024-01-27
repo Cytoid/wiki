@@ -168,7 +168,7 @@ Do not use "unknown" or something like that as the illustrator!
 ```json
 "background":
 {
-  "path": "background.jpg"
+  "path": "background.webp"
 }
 ```
 
@@ -291,7 +291,7 @@ In the PCtyx menu, click *Cytoid Settings*. Then, type what it tells you to do a
 
 Now, click *Create level.json* and save the level.json file to wherever you want.
 
-![PCtyx level.json generator](./_sources_level.json.md/pctyx.jpg)
+![PCtyx level.json generator](./_sources_level.json.md/pctyx.webp)
 
 ::: warning WARNING!
 PCtyx cannot display some characters and will show them as white boxes.
@@ -301,15 +301,15 @@ PCtyx cannot display some characters and will show them as white boxes.
 
 After finishing a chart in Cylheim, click the top-left button and look down, then click *Export to Cytoid*. You will see the following window:
 
-![Cylheim's Cytoid Level Compiler](./_sources_level.json.md/cyl1.png)
+![Cylheim's Cytoid Level Compiler](./_sources_level.json.md/cyl1.webp)
 
 Type what it tells you to do and click on the *Charts* tab after doing so.
 
 In the *Charts* tab, Click on *Add chart info*. Then select a chart file and change the difficulty from the slider.
 You can Click on *Add chart info* again to add more difficulties.
 
-![Charts](./_sources_level.json.md/cyl2.png)
+![Charts](./_sources_level.json.md/cyl2.webp)
 
 After this, click the arrow below, select *Export metadata*, and save the level.json file.
 
-![Export metadata](./_sources_level.json.md/export_cyl.png)
+![Export metadata](./_sources_level.json.md/export_cyl.webp)

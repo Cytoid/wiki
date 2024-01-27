@@ -2,7 +2,7 @@
 
 ## User Interface
 
-![](./_sources_cyunity.md/1.png)
+![](./_sources_cyunity.md/1.webp)
 
 ### Project Operations
 - **New**: Start a new project.
@@ -18,7 +18,7 @@
 - **Quit**: Quits Cytunity after confirmation.
 
 ### Info
-![](./_sources_cyunity.md/2.png)
+![](./_sources_cyunity.md/2.webp)
 
 1. **Name**: The name of the song.
 
@@ -26,7 +26,7 @@
 
 3. **Song**: The song file. (supported format: .wav and .ogg)
 
-4. **BG**: Background picture (.png only)
+4. **BG**: Background picture (.webp only)
 
 5. **Logo**: (NOT NEEDED FOR CYTOID)
 
@@ -39,7 +39,7 @@ None of this info actually matters (aside from song and name for charting) becau
 :::
 
 ### Beat Map
-![](./_sources_cyunity.md/3.png)
+![](./_sources_cyunity.md/3.webp)
 
 1. BPM: The BPM, or primary BPM of the song you will chart. The icon next to the value is a tool that helps you find the BPM.
 
@@ -63,7 +63,7 @@ None of this info actually matters (aside from song and name for charting) becau
 
 ### Settings
 
-![Settings](./_sources_cyunity.md/4.png)
+![Settings](./_sources_cyunity.md/4.webp)
 
 > We have a ton of stuff to cover so I won’t be explicit on each section unless it is needed
 
