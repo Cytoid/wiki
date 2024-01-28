@@ -3,6 +3,7 @@ import { defineLocale } from './utils'
 export const en = defineLocale({
   lang: 'en-US',
   label: 'English',
+  description: 'Cytoid is a music game where you can create, share and play your own levels!',
   fallback: 'This page has no **English** version yet, displaying the **{fallback}** version for your convenience.',
   outdated: 'This page may be outdated.',
   search: {},

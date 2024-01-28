@@ -3,6 +3,8 @@ author: GattoKai (original author), Teages (CN writer), KS62 (translator), alxdr
 finish: false
 prev: "../audio.md"
 next: "../packing.md#packing-by-using-cylheim"
+
+description: Cylheim is a Cytoid chart editor, where you can make Cytoid charts. This article will teach you how to use Cylheim to make Cytoid charts.
 ---
 
 # Charting with Cylheim

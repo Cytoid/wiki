@@ -4,6 +4,8 @@ lang: zh-Hans
 finish: true
 author: GattoKai(视频), Teages(本文)
 next: ../finish/level-json.md
+
+description: Cylheim 是一款 Cytoid 谱面编辑器, 你可以在这里制作 Cytoid 谱面. 本文将会教你如何使用 Cylheim 制作 Cytoid 谱面.
 ---
 
 # 使用 Cylheim

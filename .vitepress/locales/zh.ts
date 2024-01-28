@@ -3,6 +3,7 @@ import { defineLocale } from './utils'
 export const zh = defineLocale({
   lang: 'zh-CN',
   label: '中文 (简体)',
+  description: 'Cytoid 是一个音乐游戏，你可以在这里制作、分享和游玩自己的谱面！',
   fallback: '该页面尚未有 **中文 (简体)** 版本, 现为您提供此页面的 **{fallback}** 版本',
   outdated: '该页面内容可能已过时.',
   search: {
