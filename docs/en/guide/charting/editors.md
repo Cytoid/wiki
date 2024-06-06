@@ -6,7 +6,7 @@ Chart editor is a tool that helps you chart and finish quickly. A chart editor o
 
 ![A screenshot of PCtyx](./_source_abc.md/PCtyx.webp){.side-img}
 
-- Platform: Windows, macOS, Linux
+- Platforms: Windows, macOS, Linux
 
 - Supported audio formats: WAV, OGG, and FLAC
 
@@ -51,7 +51,7 @@ Chart editor is a tool that helps you chart and finish quickly. A chart editor o
 
 ![A screenshot of Cytoid Chart Editor, provided by hana26](./_source_abc.md/Cytoid_Chart_Editor.webp){.side-img}
 
-- Platform: Android/iOS/PC
+- Platforms: Android, iOS, PC
 
 - Supported audio formats: WAV and OGG
 

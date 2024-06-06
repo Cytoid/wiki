@@ -43,12 +43,12 @@ To do so, first make sure you have the following files:
 - A chart file (at least)
 - Music file (`.ogg` recommended)
 - Music preview file (has to be less than 30 seconds)
-- Background image (`.webp` or `.webp` only)
+- Background image (`.jpg` or `.png` only)
 
 You can also include the storyboard file(s) if you have it (them).
 
 Now, select everything, zip it, change the `.zip` extension type to the `.cytoidlevel` type and rename the file to your ID (e.g., If your ID is `abcd.efg`, rename the zip to `abcd.efg.cytoidlevel`).
 
 ::: tip INFORMATION
-We used Wanderer Zariq's *You're the Miserable* as an example for this article. Try it [here](https://cytoid.io/levels/wz.yatm).
+We used Wanderer Zariq's *You Are the Miserable* as an example for this article. Try it [here](https://cytoid.io/levels/wz.yatm).
 :::
