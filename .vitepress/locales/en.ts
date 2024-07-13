@@ -87,7 +87,7 @@ export const en = defineLocale({
       ],
       '/en/guide/': [
         {
-          text: 'Ganmeplay',
+          text: 'Gameplay',
           collapsed: false,
           items: [
             { text: 'Installing Cytoid', link: '/en/guide/gameplay/download' },

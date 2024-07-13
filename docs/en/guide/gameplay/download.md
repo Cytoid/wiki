@@ -1,4 +1,4 @@
-# Getting started to Cytoid
+# Getting started with Cytoid
 
 ## Installing Cytoid
 
