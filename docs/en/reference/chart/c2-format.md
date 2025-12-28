@@ -48,7 +48,7 @@ This article aims at Cytoid compatibility, some tools might not be fully support
 
 - **tick**: Specify when the tempo will be applied.
 
-- **value**: the duration of a beat (in nanoseconds).
+- **value**: the duration of a beat (in microseconds).
 
 :::warning NOTICE!
 This is different from BPM. However, you still can convert by using this equation: $60000000 \div BPM$.
